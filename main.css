@@ -208,8 +208,23 @@ button
     width: 50px;  
   }  
 
+  .fa-codepen {  
+    background: white; 
+    color: black;  
+  }  
 
+  .fa-github {  
+    background: white;
+    color: black;
+  }  
 
+  .fa-linkedin {  
+    background: white;
+    color: black;
+  }  
+#linkedinIcon{
+    color: black;
+}
 
     
 
